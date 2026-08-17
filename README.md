@@ -67,6 +67,8 @@ The dashboard allows users to:
 - Explore product-level sales information.
 - Interactively filter and explore the data.
 
-👤 Author
+👤 Author :
+
 Marius Mawaba BODJONA
+
 Data Analyst Trainee | Power BI | SQL | Python | Data Visualization
